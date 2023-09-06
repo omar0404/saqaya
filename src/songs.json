@@ -1,0 +1,17 @@
+{
+    "1":{
+        "id":1,
+        "name": "song1",
+        "artist": "omar"
+    },
+    "2":{
+        "id":2,
+        "name": "song2",
+        "artist": "omar"
+    },
+    "3":{
+        "id":3,
+        "name": "song3",
+        "artist": "omar"
+    }
+}
